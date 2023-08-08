@@ -192,6 +192,7 @@ Microsoft Azure:
 Azure Blob Storage, Azure Files, Azure Disk Storage
 
 
+### Advanatges of using Cloud computing:
 
 
 Cloud computing offers several advantages over traditional data centers, making it an attractive choice for businesses and organizations. Here are some key advantages of cloud over traditional data centers:
